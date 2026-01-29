@@ -1,0 +1,5473 @@
+{
+  "text": "Vishnu Padmakumar\nBangalore, Karnataka , +91 9048818992\nvishnu.padmakumar1493@gmail.com — GitHub: Vishnu714 — LinkedIn: Vishnu Padmakumar\nEducation\nBachelor of Technology in Computer Science and Engi-\nneering with Specialization in Data Science\nVellore Institute of Technology, Vellore, Tamil Nadu, India\nCGPA : 8.81 / 10.0\nHigher Secondary Education (CBSE) 2019 – 2021\nNew Millennium School, Bahrain\nPercentage : 95.6%\nSkills\n•Programming Languages : Java, Python, C/C++,\nHTML, CSS, JavaScript\n•Frameworks and Libraries : Spring Boot, Java Microser-\nvices, Python Microservices (FastAPI, Flask), TensorFlow,\nPyTorch, React.js\n•Databases : MySQL, PostgreSQL, MongoDB\n•AI/ML Techniques : LLMs, GANs, Neural Networks, Fea-\nture Engineering, Data Preprocessing\n•Data Analytics and Visualization : Power BI, EDA, Data\nCleaning, Data Wrangling\n•Version Control : Git, GitHub, GitLab\n•Soft Skills : Leadership, Team Collaboration, Effective\nCommunication\nProjects\n•NeuroOptions: AI-Powered Options Pricing System\nDec 2024 – Apr 2025\n–Developed a KDTree-based deep learning model,\nachieving 95% accuracy and 23% improvement over\nBlack-Scholes.\n–Integrated Monte Carlo, VADER sentiment, and fuzzy\nlogic to enhance market responsiveness by 35%.\n–Reduced RMSE and MAE via hybrid modeling and pa-\nrameter tuning.\n–Built for fintech use cases enabling real-time,\nsentiment-aware options pricing.\n•Portfolio Risk Analysis Platform Feb – Apr 2025\n–Built a containerized Python–Streamlit app to simu-\nlate risk and forecast returns with 85% input accuracy.\n–Ran 10,000+ Monte Carlo simulations to visualize\nvolatility and outcome probabilities.\n–Used Docker and GitLab CI/CD to cut deployment\ntime by 40% and ensure consistency.\n–Enabled real-time tuning and visualization, boosting\ndecision speed by 60%.\n•LearnSphere – Adaptive Learning Platform\nAug – Oct 2023\n–Created an interactive learning app using Llama 2 7B\nwith RAG, improving engagement by 35%.–Applied spaced repetition, boosting retention by 28%.\n–Built personalized content recommendations using\nRAG to fetch and generate contextually relevant learn-\ning materials.\n•PREPAMIGO – Data Preprocessing Tool\nMar 2023\n–Designed a tool that cut preprocessing time for data\nscientists by 90%.\n–Made preprocessing accessible to beginners with a\nuser-friendly interface.\n–Improved model performance by 15% via automated\nfeature engineering.\nProfessional Experience\n•Tata Consultancy Services – Software Developer Feb 2025\n– Apr 2025\n–Developed scalable Java Spring Boot microservices for\nbackend systems, implementing REST APIs and service-\nto-service communication.\n–Built Python microservices using FastAPI for data pro-\ncessing and analytics workflows.\n–Containerized microservices using Docker, enabling consis-\ntent deployments across environments.\n–Integrated GitLab CI/CD pipelines, reducing deployment\nerrors by 60% and improving delivery speed by 25%.\n–Collaborated on a synthetic data pipeline to enhance AI\nmodel training while ensuring data privacy.\n•Hilal Computers (Norththek) – Tech Support Intern\nAug–Sep 2023\n–Streamlined Dell support tasks, increasing process effi-\nciency by 25%.\n–Resolved 50+ technical issues, maintaining 95% customer\nsatisfaction.\n–Created a knowledge base, cutting average issue resolution\ntime by 15 minutes.\n•Finlatics – Business Analyst Experience\n–Designed 5 Power BI dashboards, improving data visual-\nization efficiency by 40%.\n–Analyzed financial data to develop a 20% cost reduction\nstrategy.\n–Built predictive models with 85% accuracy over 6 months.\n•ROBOVITICS CLUB, VIT – AI/ML Member\n–Built a Robowars bot; placed top-3 out of 15 teams by\noptimizing sensors and control algorithms.\n–Conducted workshops for 30+ students; 80% pursued fur-\nther learning in robotics.\n–Contributed to AI/ML projects applying core concepts to\npractical challenges.\nAdditional Information\nLanguages : English, Tamil, Malayalam, Spanish, Hindi\nCertifications : Machine Learning A-Z ™: AI, Python & R\n(2023)\n1",
+  "tokens": [
+    {
+      "text": "Vishnu",
+      "lemma": "Vishnu",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Padmakumar",
+      "lemma": "Padmakumar",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Bangalore",
+      "lemma": "Bangalore",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Karnataka",
+      "lemma": "Karnataka",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "+91",
+      "lemma": "+91",
+      "pos": "VERB",
+      "tag": "VBP"
+    },
+    {
+      "text": "9048818992",
+      "lemma": "9048818992",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "vishnu.padmakumar1493@gmail.com",
+      "lemma": "vishnu.padmakumar1493@gmail.com",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "—",
+      "lemma": "—",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "GitHub",
+      "lemma": "GitHub",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Vishnu714",
+      "lemma": "vishnu714",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "—",
+      "lemma": "—",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "LinkedIn",
+      "lemma": "LinkedIn",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Vishnu",
+      "lemma": "Vishnu",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Padmakumar",
+      "lemma": "Padmakumar",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Education",
+      "lemma": "Education",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Bachelor",
+      "lemma": "Bachelor",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "of",
+      "lemma": "of",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Technology",
+      "lemma": "Technology",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "in",
+      "lemma": "in",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Computer",
+      "lemma": "Computer",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Science",
+      "lemma": "Science",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Engi-",
+      "lemma": "Engi-",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "neering",
+      "lemma": "neere",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "with",
+      "lemma": "with",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Specialization",
+      "lemma": "Specialization",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "in",
+      "lemma": "in",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Data",
+      "lemma": "Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Science",
+      "lemma": "Science",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Vellore",
+      "lemma": "Vellore",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Institute",
+      "lemma": "Institute",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "of",
+      "lemma": "of",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Technology",
+      "lemma": "Technology",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Vellore",
+      "lemma": "Vellore",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Tamil",
+      "lemma": "Tamil",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Nadu",
+      "lemma": "Nadu",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "India",
+      "lemma": "India",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "CGPA",
+      "lemma": "CGPA",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "8.81",
+      "lemma": "8.81",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "10.0",
+      "lemma": "10.0",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Higher",
+      "lemma": "high",
+      "pos": "ADJ",
+      "tag": "JJR"
+    },
+    {
+      "text": "Secondary",
+      "lemma": "Secondary",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Education",
+      "lemma": "Education",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "(",
+      "lemma": "(",
+      "pos": "PUNCT",
+      "tag": "-LRB-"
+    },
+    {
+      "text": "CBSE",
+      "lemma": "CBSE",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ")",
+      "lemma": ")",
+      "pos": "PUNCT",
+      "tag": "-RRB-"
+    },
+    {
+      "text": "2019",
+      "lemma": "2019",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "2021",
+      "lemma": "2021",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "New",
+      "lemma": "New",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Millennium",
+      "lemma": "Millennium",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "School",
+      "lemma": "School",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Bahrain",
+      "lemma": "Bahrain",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Percentage",
+      "lemma": "percentage",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "95.6",
+      "lemma": "95.6",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Skills",
+      "lemma": "skill",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Programming",
+      "lemma": "•programme",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "Languages",
+      "lemma": "Languages",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Java",
+      "lemma": "Java",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Python",
+      "lemma": "Python",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "C",
+      "lemma": "C",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "C++",
+      "lemma": "C++",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "HTML",
+      "lemma": "HTML",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "CSS",
+      "lemma": "CSS",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "JavaScript",
+      "lemma": "JavaScript",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Frameworks",
+      "lemma": "•framework",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Libraries",
+      "lemma": "Libraries",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Spring",
+      "lemma": "Spring",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Boot",
+      "lemma": "Boot",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Java",
+      "lemma": "Java",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Microser-",
+      "lemma": "Microser-",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "vices",
+      "lemma": "vice",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Python",
+      "lemma": "Python",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Microservices",
+      "lemma": "Microservices",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": "(",
+      "lemma": "(",
+      "pos": "PUNCT",
+      "tag": "-LRB-"
+    },
+    {
+      "text": "FastAPI",
+      "lemma": "FastAPI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Flask",
+      "lemma": "Flask",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ")",
+      "lemma": ")",
+      "pos": "PUNCT",
+      "tag": "-RRB-"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "TensorFlow",
+      "lemma": "TensorFlow",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "PyTorch",
+      "lemma": "PyTorch",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "React.js",
+      "lemma": "React.js",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Databases",
+      "lemma": "•database",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "MySQL",
+      "lemma": "mysql",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "PostgreSQL",
+      "lemma": "PostgreSQL",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "MongoDB",
+      "lemma": "MongoDB",
+      "pos": "PUNCT",
+      "tag": "``"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•AI",
+      "lemma": "•AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "ML",
+      "lemma": "ML",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Techniques",
+      "lemma": "Techniques",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "LLMs",
+      "lemma": "LLMs",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "GANs",
+      "lemma": "gan",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Neural",
+      "lemma": "Neural",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Networks",
+      "lemma": "Networks",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Fea-",
+      "lemma": "fea-",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "ture",
+      "lemma": "ture",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "Engineering",
+      "lemma": "Engineering",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Data",
+      "lemma": "Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Preprocessing",
+      "lemma": "Preprocessing",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Data",
+      "lemma": "•Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Analytics",
+      "lemma": "Analytics",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Visualization",
+      "lemma": "Visualization",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Power",
+      "lemma": "Power",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "BI",
+      "lemma": "BI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "EDA",
+      "lemma": "EDA",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Data",
+      "lemma": "Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Cleaning",
+      "lemma": "Cleaning",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Data",
+      "lemma": "Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Wrangling",
+      "lemma": "Wrangling",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Version",
+      "lemma": "•version",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "Control",
+      "lemma": "control",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Git",
+      "lemma": "Git",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "GitHub",
+      "lemma": "GitHub",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "GitLab",
+      "lemma": "GitLab",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Soft",
+      "lemma": "•Soft",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Skills",
+      "lemma": "Skills",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Leadership",
+      "lemma": "leadership",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Team",
+      "lemma": "Team",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Collaboration",
+      "lemma": "Collaboration",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Effective",
+      "lemma": "Effective",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Communication",
+      "lemma": "Communication",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Projects",
+      "lemma": "project",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•NeuroOptions",
+      "lemma": "•neurooption",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "AI",
+      "lemma": "AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "Powered",
+      "lemma": "power",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "Options",
+      "lemma": "Options",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": "Pricing",
+      "lemma": "Pricing",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "System",
+      "lemma": "System",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Dec",
+      "lemma": "Dec",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2024",
+      "lemma": "2024",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Apr",
+      "lemma": "Apr",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2025",
+      "lemma": "2025",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Developed",
+      "lemma": "develop",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "KDTree",
+      "lemma": "KDTree",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "based",
+      "lemma": "base",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "deep",
+      "lemma": "deep",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "learning",
+      "lemma": "learning",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "model",
+      "lemma": "model",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "achieving",
+      "lemma": "achieve",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "95",
+      "lemma": "95",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "accuracy",
+      "lemma": "accuracy",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "23",
+      "lemma": "23",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "improvement",
+      "lemma": "improvement",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "over",
+      "lemma": "over",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Black",
+      "lemma": "Black",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "Scholes",
+      "lemma": "Scholes",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Integrated",
+      "lemma": "Integrated",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Monte",
+      "lemma": "Monte",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Carlo",
+      "lemma": "Carlo",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "VADER",
+      "lemma": "VADER",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "sentiment",
+      "lemma": "sentiment",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "fuzzy",
+      "lemma": "fuzzy",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "logic",
+      "lemma": "logic",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "enhance",
+      "lemma": "enhance",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "market",
+      "lemma": "market",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "responsiveness",
+      "lemma": "responsiveness",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "35",
+      "lemma": "35",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Reduced",
+      "lemma": "reduce",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "RMSE",
+      "lemma": "RMSE",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "MAE",
+      "lemma": "MAE",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "via",
+      "lemma": "via",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "hybrid",
+      "lemma": "hybrid",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "modeling",
+      "lemma": "modeling",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "pa-",
+      "lemma": "pa-",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "rameter",
+      "lemma": "rameter",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "tuning",
+      "lemma": "tuning",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "for",
+      "lemma": "for",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "fintech",
+      "lemma": "fintech",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "use",
+      "lemma": "use",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "cases",
+      "lemma": "case",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "enabling",
+      "lemma": "enable",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "real",
+      "lemma": "real",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "time",
+      "lemma": "time",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "sentiment",
+      "lemma": "sentiment",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "aware",
+      "lemma": "aware",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "options",
+      "lemma": "option",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "pricing",
+      "lemma": "pricing",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Portfolio",
+      "lemma": "•portfolio",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "Risk",
+      "lemma": "risk",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "Analysis",
+      "lemma": "Analysis",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Platform",
+      "lemma": "Platform",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Feb",
+      "lemma": "Feb",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Apr",
+      "lemma": "Apr",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2025",
+      "lemma": "2025",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "containerized",
+      "lemma": "containerized",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "Python",
+      "lemma": "Python",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Streamlit",
+      "lemma": "Streamlit",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "app",
+      "lemma": "app",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "simu-",
+      "lemma": "simu-",
+      "pos": "ADV",
+      "tag": "RBS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "late",
+      "lemma": "late",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "risk",
+      "lemma": "risk",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "forecast",
+      "lemma": "forecast",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "returns",
+      "lemma": "return",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "with",
+      "lemma": "with",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "85",
+      "lemma": "85",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "input",
+      "lemma": "input",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "accuracy",
+      "lemma": "accuracy",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Ran",
+      "lemma": "ran",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "10,000",
+      "lemma": "10,000",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "+",
+      "lemma": "+",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "Monte",
+      "lemma": "Monte",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Carlo",
+      "lemma": "Carlo",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "simulations",
+      "lemma": "simulation",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "visualize",
+      "lemma": "visualize",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "volatility",
+      "lemma": "volatility",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "outcome",
+      "lemma": "outcome",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "probabilities",
+      "lemma": "probability",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Used",
+      "lemma": "use",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "Docker",
+      "lemma": "Docker",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "GitLab",
+      "lemma": "GitLab",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "CI",
+      "lemma": "CI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "CD",
+      "lemma": "cd",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "cut",
+      "lemma": "cut",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "deployment",
+      "lemma": "deployment",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "time",
+      "lemma": "time",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "40",
+      "lemma": "40",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "ensure",
+      "lemma": "ensure",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "consistency",
+      "lemma": "consistency",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Enabled",
+      "lemma": "enable",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "real",
+      "lemma": "real",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "time",
+      "lemma": "time",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "tuning",
+      "lemma": "tuning",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "visualization",
+      "lemma": "visualization",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "boosting",
+      "lemma": "boost",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "decision",
+      "lemma": "decision",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "speed",
+      "lemma": "speed",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "60",
+      "lemma": "60",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•LearnSphere",
+      "lemma": "•LearnSphere",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Adaptive",
+      "lemma": "Adaptive",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Learning",
+      "lemma": "Learning",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Platform",
+      "lemma": "Platform",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Aug",
+      "lemma": "Aug",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Oct",
+      "lemma": "Oct",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2023",
+      "lemma": "2023",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Created",
+      "lemma": "create",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "an",
+      "lemma": "an",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "interactive",
+      "lemma": "interactive",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "learning",
+      "lemma": "learning",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "app",
+      "lemma": "app",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "using",
+      "lemma": "use",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "Llama",
+      "lemma": "Llama",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2",
+      "lemma": "2",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "7B",
+      "lemma": "7b",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "with",
+      "lemma": "with",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "RAG",
+      "lemma": "RAG",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "improving",
+      "lemma": "improve",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "engagement",
+      "lemma": "engagement",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "35%.–Applied",
+      "lemma": "35%.–applie",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "spaced",
+      "lemma": "spaced",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "repetition",
+      "lemma": "repetition",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "boosting",
+      "lemma": "boost",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "retention",
+      "lemma": "retention",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "28",
+      "lemma": "28",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "personalized",
+      "lemma": "personalize",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "content",
+      "lemma": "content",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "recommendations",
+      "lemma": "recommendation",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "using",
+      "lemma": "use",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "RAG",
+      "lemma": "RAG",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "fetch",
+      "lemma": "fetch",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "generate",
+      "lemma": "generate",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "contextually",
+      "lemma": "contextually",
+      "pos": "ADV",
+      "tag": "RB"
+    },
+    {
+      "text": "relevant",
+      "lemma": "relevant",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "learn-",
+      "lemma": "learn-",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "ing",
+      "lemma": "ing",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "materials",
+      "lemma": "material",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•PREPAMIGO",
+      "lemma": "•prepamigo",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Data",
+      "lemma": "Data",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Preprocessing",
+      "lemma": "Preprocessing",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Tool",
+      "lemma": "Tool",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Mar",
+      "lemma": "Mar",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2023",
+      "lemma": "2023",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Designed",
+      "lemma": "design",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "tool",
+      "lemma": "tool",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "that",
+      "lemma": "that",
+      "pos": "PRON",
+      "tag": "WDT"
+    },
+    {
+      "text": "cut",
+      "lemma": "cut",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "preprocessing",
+      "lemma": "preprocesse",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "time",
+      "lemma": "time",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "for",
+      "lemma": "for",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "data",
+      "lemma": "datum",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "scientists",
+      "lemma": "scientist",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "90",
+      "lemma": "90",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Made",
+      "lemma": "make",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "preprocessing",
+      "lemma": "preprocessing",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "accessible",
+      "lemma": "accessible",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "beginners",
+      "lemma": "beginner",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "with",
+      "lemma": "with",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "user",
+      "lemma": "user",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "friendly",
+      "lemma": "friendly",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "interface",
+      "lemma": "interface",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Improved",
+      "lemma": "improved",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "model",
+      "lemma": "model",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "performance",
+      "lemma": "performance",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "15",
+      "lemma": "15",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "via",
+      "lemma": "via",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "automated",
+      "lemma": "automated",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "feature",
+      "lemma": "feature",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "engineering",
+      "lemma": "engineering",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Professional",
+      "lemma": "Professional",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Experience",
+      "lemma": "Experience",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Tata",
+      "lemma": "•Tata",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Consultancy",
+      "lemma": "Consultancy",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Services",
+      "lemma": "Services",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Software",
+      "lemma": "Software",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Developer",
+      "lemma": "Developer",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Feb",
+      "lemma": "Feb",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2025",
+      "lemma": "2025",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Apr",
+      "lemma": "Apr",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2025",
+      "lemma": "2025",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Developed",
+      "lemma": "develop",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "scalable",
+      "lemma": "scalable",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "Java",
+      "lemma": "Java",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Spring",
+      "lemma": "Spring",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Boot",
+      "lemma": "Boot",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "microservices",
+      "lemma": "microservice",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "for",
+      "lemma": "for",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "backend",
+      "lemma": "backend",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "systems",
+      "lemma": "system",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "implementing",
+      "lemma": "implement",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "REST",
+      "lemma": "rest",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "APIs",
+      "lemma": "api",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "service-",
+      "lemma": "service-",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "service",
+      "lemma": "service",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "communication",
+      "lemma": "communication",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "Python",
+      "lemma": "Python",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "microservices",
+      "lemma": "microservice",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "using",
+      "lemma": "use",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "FastAPI",
+      "lemma": "fastapi",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "for",
+      "lemma": "for",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "data",
+      "lemma": "datum",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "pro-",
+      "lemma": "pro-",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "cessing",
+      "lemma": "cessing",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "analytics",
+      "lemma": "analytic",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "workflows",
+      "lemma": "workflow",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Containerized",
+      "lemma": "containerized",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "microservices",
+      "lemma": "microservice",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "using",
+      "lemma": "use",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "Docker",
+      "lemma": "Docker",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "enabling",
+      "lemma": "enable",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "consis-",
+      "lemma": "consis-",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "tent",
+      "lemma": "tent",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "deployments",
+      "lemma": "deployment",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "across",
+      "lemma": "across",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "environments",
+      "lemma": "environment",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Integrated",
+      "lemma": "Integrated",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "GitLab",
+      "lemma": "GitLab",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "CI",
+      "lemma": "CI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "CD",
+      "lemma": "cd",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "pipelines",
+      "lemma": "pipeline",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "reducing",
+      "lemma": "reduce",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "deployment",
+      "lemma": "deployment",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "errors",
+      "lemma": "error",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "60",
+      "lemma": "60",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "improving",
+      "lemma": "improve",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "delivery",
+      "lemma": "delivery",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "speed",
+      "lemma": "speed",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "25",
+      "lemma": "25",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Collaborated",
+      "lemma": "collaborate",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "on",
+      "lemma": "on",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "synthetic",
+      "lemma": "synthetic",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "data",
+      "lemma": "data",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "pipeline",
+      "lemma": "pipeline",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "enhance",
+      "lemma": "enhance",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "AI",
+      "lemma": "AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "model",
+      "lemma": "model",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "training",
+      "lemma": "training",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "while",
+      "lemma": "while",
+      "pos": "SCONJ",
+      "tag": "IN"
+    },
+    {
+      "text": "ensuring",
+      "lemma": "ensure",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "data",
+      "lemma": "datum",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "privacy",
+      "lemma": "privacy",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Hilal",
+      "lemma": "•Hilal",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "Computers",
+      "lemma": "computer",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "(",
+      "lemma": "(",
+      "pos": "PUNCT",
+      "tag": "-LRB-"
+    },
+    {
+      "text": "Norththek",
+      "lemma": "Norththek",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ")",
+      "lemma": ")",
+      "pos": "PUNCT",
+      "tag": "-RRB-"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Tech",
+      "lemma": "Tech",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Support",
+      "lemma": "Support",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Intern",
+      "lemma": "Intern",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Aug",
+      "lemma": "Aug",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Sep",
+      "lemma": "Sep",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "2023",
+      "lemma": "2023",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Streamlined",
+      "lemma": "streamlined",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "Dell",
+      "lemma": "Dell",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "support",
+      "lemma": "support",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "tasks",
+      "lemma": "task",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "increasing",
+      "lemma": "increase",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "process",
+      "lemma": "process",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "effi-",
+      "lemma": "effi-",
+      "pos": "PART",
+      "tag": "POS"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "ciency",
+      "lemma": "ciency",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "25",
+      "lemma": "25",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Resolved",
+      "lemma": "resolve",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "50",
+      "lemma": "50",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "+",
+      "lemma": "+",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "technical",
+      "lemma": "technical",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "issues",
+      "lemma": "issue",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "maintaining",
+      "lemma": "maintain",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "95",
+      "lemma": "95",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "customer",
+      "lemma": "customer",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "satisfaction",
+      "lemma": "satisfaction",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Created",
+      "lemma": "create",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "knowledge",
+      "lemma": "knowledge",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "base",
+      "lemma": "base",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "cutting",
+      "lemma": "cut",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "average",
+      "lemma": "average",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "issue",
+      "lemma": "issue",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "resolution",
+      "lemma": "resolution",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "time",
+      "lemma": "time",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "15",
+      "lemma": "15",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "minutes",
+      "lemma": "minute",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•Finlatics",
+      "lemma": "•finlatic",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Business",
+      "lemma": "Business",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Analyst",
+      "lemma": "Analyst",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Experience",
+      "lemma": "Experience",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Designed",
+      "lemma": "design",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "5",
+      "lemma": "5",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "Power",
+      "lemma": "Power",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "BI",
+      "lemma": "BI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "dashboards",
+      "lemma": "dashboard",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "improving",
+      "lemma": "improve",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "data",
+      "lemma": "datum",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "visual-",
+      "lemma": "visual-",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "ization",
+      "lemma": "ization",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "efficiency",
+      "lemma": "efficiency",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "40",
+      "lemma": "40",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Analyzed",
+      "lemma": "analyzed",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "financial",
+      "lemma": "financial",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "data",
+      "lemma": "datum",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "PART",
+      "tag": "TO"
+    },
+    {
+      "text": "develop",
+      "lemma": "develop",
+      "pos": "VERB",
+      "tag": "VB"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "20",
+      "lemma": "20",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "cost",
+      "lemma": "cost",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "reduction",
+      "lemma": "reduction",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "strategy",
+      "lemma": "strategy",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "predictive",
+      "lemma": "predictive",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "models",
+      "lemma": "model",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "with",
+      "lemma": "with",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "85",
+      "lemma": "85",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "accuracy",
+      "lemma": "accuracy",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "over",
+      "lemma": "over",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "6",
+      "lemma": "6",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "months",
+      "lemma": "month",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "•ROBOVITICS",
+      "lemma": "•ROBOVITICS",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "CLUB",
+      "lemma": "CLUB",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "VIT",
+      "lemma": "VIT",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "AI",
+      "lemma": "AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "ML",
+      "lemma": "ML",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Member",
+      "lemma": "Member",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Built",
+      "lemma": "build",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "a",
+      "lemma": "a",
+      "pos": "DET",
+      "tag": "DT"
+    },
+    {
+      "text": "Robowars",
+      "lemma": "Robowars",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "bot",
+      "lemma": "bot",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": ";",
+      "lemma": ";",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "placed",
+      "lemma": "place",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "top-3",
+      "lemma": "top-3",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "out",
+      "lemma": "out",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "of",
+      "lemma": "of",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "15",
+      "lemma": "15",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "teams",
+      "lemma": "team",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "by",
+      "lemma": "by",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "optimizing",
+      "lemma": "optimize",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "sensors",
+      "lemma": "sensor",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "and",
+      "lemma": "and",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "control",
+      "lemma": "control",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "algorithms",
+      "lemma": "algorithm",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Conducted",
+      "lemma": "conducted",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "workshops",
+      "lemma": "workshop",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "for",
+      "lemma": "for",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "30",
+      "lemma": "30",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "+",
+      "lemma": "+",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "students",
+      "lemma": "student",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ";",
+      "lemma": ";",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "80",
+      "lemma": "80",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": "%",
+      "lemma": "%",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "pursued",
+      "lemma": "pursue",
+      "pos": "VERB",
+      "tag": "VBD"
+    },
+    {
+      "text": "fur-",
+      "lemma": "fur-",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "ther",
+      "lemma": "ther",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "learning",
+      "lemma": "learning",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "in",
+      "lemma": "in",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "robotics",
+      "lemma": "robotic",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "–",
+      "lemma": "–",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Contributed",
+      "lemma": "contribute",
+      "pos": "VERB",
+      "tag": "VBN"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "AI",
+      "lemma": "AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "/",
+      "lemma": "/",
+      "pos": "SYM",
+      "tag": "SYM"
+    },
+    {
+      "text": "ML",
+      "lemma": "ML",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "projects",
+      "lemma": "project",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "applying",
+      "lemma": "apply",
+      "pos": "VERB",
+      "tag": "VBG"
+    },
+    {
+      "text": "core",
+      "lemma": "core",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "concepts",
+      "lemma": "concept",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": "to",
+      "lemma": "to",
+      "pos": "ADP",
+      "tag": "IN"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "practical",
+      "lemma": "practical",
+      "pos": "ADJ",
+      "tag": "JJ"
+    },
+    {
+      "text": "challenges",
+      "lemma": "challenge",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ".",
+      "lemma": ".",
+      "pos": "PUNCT",
+      "tag": "."
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Additional",
+      "lemma": "Additional",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "Information",
+      "lemma": "Information",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Languages",
+      "lemma": "Languages",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "English",
+      "lemma": "English",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Tamil",
+      "lemma": "Tamil",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Malayalam",
+      "lemma": "Malayalam",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Spanish",
+      "lemma": "Spanish",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Hindi",
+      "lemma": "Hindi",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "Certifications",
+      "lemma": "Certifications",
+      "pos": "PROPN",
+      "tag": "NNPS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "Machine",
+      "lemma": "machine",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "Learning",
+      "lemma": "Learning",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "A",
+      "lemma": "a",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "-",
+      "lemma": "-",
+      "pos": "PUNCT",
+      "tag": "HYPH"
+    },
+    {
+      "text": "Z",
+      "lemma": "z",
+      "pos": "NOUN",
+      "tag": "NN"
+    },
+    {
+      "text": "™",
+      "lemma": "™",
+      "pos": "NOUN",
+      "tag": "NNS"
+    },
+    {
+      "text": ":",
+      "lemma": ":",
+      "pos": "PUNCT",
+      "tag": ":"
+    },
+    {
+      "text": "AI",
+      "lemma": "AI",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": ",",
+      "lemma": ",",
+      "pos": "PUNCT",
+      "tag": ","
+    },
+    {
+      "text": "Python",
+      "lemma": "Python",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "&",
+      "lemma": "&",
+      "pos": "CCONJ",
+      "tag": "CC"
+    },
+    {
+      "text": "R",
+      "lemma": "R",
+      "pos": "PROPN",
+      "tag": "NNP"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "(",
+      "lemma": "(",
+      "pos": "PUNCT",
+      "tag": "-LRB-"
+    },
+    {
+      "text": "2023",
+      "lemma": "2023",
+      "pos": "NUM",
+      "tag": "CD"
+    },
+    {
+      "text": ")",
+      "lemma": ")",
+      "pos": "PUNCT",
+      "tag": "-RRB-"
+    },
+    {
+      "text": "\n",
+      "lemma": "\n",
+      "pos": "SPACE",
+      "tag": "_SP"
+    },
+    {
+      "text": "1",
+      "lemma": "1",
+      "pos": "NUM",
+      "tag": "CD"
+    }
+  ],
+  "entities": [
+    {
+      "text": "Vishnu Padmakumar\nBangalore",
+      "label": "PERSON",
+      "start_char": 0,
+      "end_char": 27
+    },
+    {
+      "text": "Karnataka",
+      "label": "GPE",
+      "start_char": 29,
+      "end_char": 38
+    },
+    {
+      "text": "9048818992",
+      "label": "DATE",
+      "start_char": 45,
+      "end_char": 55
+    },
+    {
+      "text": "Vishnu Padmakumar\nEducation",
+      "label": "PERSON",
+      "start_char": 120,
+      "end_char": 147
+    },
+    {
+      "text": "Specialization in Data Science\nVellore Institute of Technology",
+      "label": "WORK_OF_ART",
+      "start_char": 214,
+      "end_char": 276
+    },
+    {
+      "text": "Vellore",
+      "label": "GPE",
+      "start_char": 278,
+      "end_char": 285
+    },
+    {
+      "text": "Tamil Nadu",
+      "label": "PERSON",
+      "start_char": 287,
+      "end_char": 297
+    },
+    {
+      "text": "India",
+      "label": "GPE",
+      "start_char": 299,
+      "end_char": 304
+    },
+    {
+      "text": "8.81 / 10.0",
+      "label": "CARDINAL",
+      "start_char": 312,
+      "end_char": 323
+    },
+    {
+      "text": "Higher Secondary Education",
+      "label": "ORG",
+      "start_char": 324,
+      "end_char": 350
+    },
+    {
+      "text": "CBSE",
+      "label": "ORG",
+      "start_char": 352,
+      "end_char": 356
+    },
+    {
+      "text": "2019",
+      "label": "DATE",
+      "start_char": 358,
+      "end_char": 362
+    },
+    {
+      "text": "2021",
+      "label": "DATE",
+      "start_char": 365,
+      "end_char": 369
+    },
+    {
+      "text": "New Millennium School",
+      "label": "ORG",
+      "start_char": 370,
+      "end_char": 391
+    },
+    {
+      "text": "95.6%",
+      "label": "PERCENT",
+      "start_char": 414,
+      "end_char": 419
+    },
+    {
+      "text": "C/C++",
+      "label": "ORG",
+      "start_char": 466,
+      "end_char": 471
+    },
+    {
+      "text": "HTML",
+      "label": "ORG",
+      "start_char": 473,
+      "end_char": 477
+    },
+    {
+      "text": "CSS",
+      "label": "ORG",
+      "start_char": 479,
+      "end_char": 482
+    },
+    {
+      "text": "JavaScript",
+      "label": "ORG",
+      "start_char": 484,
+      "end_char": 494
+    },
+    {
+      "text": "Libraries",
+      "label": "GPE",
+      "start_char": 511,
+      "end_char": 520
+    },
+    {
+      "text": "Spring Boot",
+      "label": "PERSON",
+      "start_char": 523,
+      "end_char": 534
+    },
+    {
+      "text": "Java",
+      "label": "PERSON",
+      "start_char": 536,
+      "end_char": 540
+    },
+    {
+      "text": "Python Microservices",
+      "label": "ORG",
+      "start_char": 558,
+      "end_char": 578
+    },
+    {
+      "text": "Flask",
+      "label": "GPE",
+      "start_char": 589,
+      "end_char": 594
+    },
+    {
+      "text": "TensorFlow",
+      "label": "ORG",
+      "start_char": 597,
+      "end_char": 607
+    },
+    {
+      "text": "PyTorch",
+      "label": "PERSON",
+      "start_char": 609,
+      "end_char": 616
+    },
+    {
+      "text": "MySQL, PostgreSQL",
+      "label": "DATE",
+      "start_char": 640,
+      "end_char": 657
+    },
+    {
+      "text": "Neural Networks",
+      "label": "ORG",
+      "start_char": 699,
+      "end_char": 714
+    },
+    {
+      "text": "Engineering",
+      "label": "ORG",
+      "start_char": 726,
+      "end_char": 737
+    },
+    {
+      "text": "EDA",
+      "label": "ORG",
+      "start_char": 804,
+      "end_char": 807
+    },
+    {
+      "text": "Data\nCleaning, Data Wrangling\n•Version",
+      "label": "ORG",
+      "start_char": 809,
+      "end_char": 847
+    },
+    {
+      "text": "GitHub",
+      "label": "PRODUCT",
+      "start_char": 863,
+      "end_char": 869
+    },
+    {
+      "text": "GitLab",
+      "label": "ORG",
+      "start_char": 871,
+      "end_char": 877
+    },
+    {
+      "text": "AI-Powered Options Pricing System",
+      "label": "ORG",
+      "start_char": 973,
+      "end_char": 1006
+    },
+    {
+      "text": "Dec 2024",
+      "label": "DATE",
+      "start_char": 1007,
+      "end_char": 1015
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start_char": 1022,
+      "end_char": 1026
+    },
+    {
+      "text": "95%",
+      "label": "PERCENT",
+      "start_char": 1084,
+      "end_char": 1087
+    },
+    {
+      "text": "23%",
+      "label": "PERCENT",
+      "start_char": 1101,
+      "end_char": 1104
+    },
+    {
+      "text": "Black-Scholes",
+      "label": "ORG",
+      "start_char": 1122,
+      "end_char": 1135
+    },
+    {
+      "text": "Integrated Monte Carlo",
+      "label": "PERSON",
+      "start_char": 1138,
+      "end_char": 1160
+    },
+    {
+      "text": "35%",
+      "label": "PERCENT",
+      "start_char": 1231,
+      "end_char": 1234
+    },
+    {
+      "text": "MAE",
+      "label": "ORG",
+      "start_char": 1254,
+      "end_char": 1257
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start_char": 1428,
+      "end_char": 1432
+    },
+    {
+      "text": "Streamlit",
+      "label": "PERSON",
+      "start_char": 1463,
+      "end_char": 1472
+    },
+    {
+      "text": "85%",
+      "label": "PERCENT",
+      "start_char": 1522,
+      "end_char": 1525
+    },
+    {
+      "text": "10,000",
+      "label": "CARDINAL",
+      "start_char": 1547,
+      "end_char": 1553
+    },
+    {
+      "text": "Docker",
+      "label": "PERSON",
+      "start_char": 1636,
+      "end_char": 1642
+    },
+    {
+      "text": "CI",
+      "label": "ORG",
+      "start_char": 1654,
+      "end_char": 1656
+    },
+    {
+      "text": "40%",
+      "label": "PERCENT",
+      "start_char": 1686,
+      "end_char": 1689
+    },
+    {
+      "text": "60%",
+      "label": "PERCENT",
+      "start_char": 1786,
+      "end_char": 1789
+    },
+    {
+      "text": "Oct 2023",
+      "label": "DATE",
+      "start_char": 1839,
+      "end_char": 1847
+    },
+    {
+      "text": "Llama 2 7B",
+      "label": "PRODUCT",
+      "start_char": 1891,
+      "end_char": 1901
+    },
+    {
+      "text": "RAG",
+      "label": "PERSON",
+      "start_char": 1907,
+      "end_char": 1910
+    },
+    {
+      "text": "35%.–Applied",
+      "label": "CARDINAL",
+      "start_char": 1936,
+      "end_char": 1948
+    },
+    {
+      "text": "28%",
+      "label": "PERCENT",
+      "start_char": 1990,
+      "end_char": 1993
+    },
+    {
+      "text": "RAG",
+      "label": "PERSON",
+      "start_char": 2045,
+      "end_char": 2048
+    },
+    {
+      "text": "Mar 2023",
+      "label": "DATE",
+      "start_char": 2152,
+      "end_char": 2160
+    },
+    {
+      "text": "90%",
+      "label": "PERCENT",
+      "start_char": 2229,
+      "end_char": 2232
+    },
+    {
+      "text": "15%",
+      "label": "PERCENT",
+      "start_char": 2341,
+      "end_char": 2344
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start_char": 2456,
+      "end_char": 2460
+    },
+    {
+      "text": "2025",
+      "label": "DATE",
+      "start_char": 2467,
+      "end_char": 2471
+    },
+    {
+      "text": "Java Spring Boot",
+      "label": "PERSON",
+      "start_char": 2492,
+      "end_char": 2508
+    },
+    {
+      "text": "Docker",
+      "label": "PERSON",
+      "start_char": 2730,
+      "end_char": 2736
+    },
+    {
+      "text": "60%",
+      "label": "PERCENT",
+      "start_char": 2859,
+      "end_char": 2862
+    },
+    {
+      "text": "25%",
+      "label": "PERCENT",
+      "start_char": 2895,
+      "end_char": 2898
+    },
+    {
+      "text": "AI",
+      "label": "GPE",
+      "start_char": 2954,
+      "end_char": 2956
+    },
+    {
+      "text": "Norththek",
+      "label": "PERSON",
+      "start_char": 3019,
+      "end_char": 3028
+    },
+    {
+      "text": "25%",
+      "label": "PERCENT",
+      "start_char": 3133,
+      "end_char": 3136
+    },
+    {
+      "text": "50",
+      "label": "CARDINAL",
+      "start_char": 3148,
+      "end_char": 3150
+    },
+    {
+      "text": "95%",
+      "label": "PERCENT",
+      "start_char": 3182,
+      "end_char": 3185
+    },
+    {
+      "text": "15 minutes",
+      "label": "TIME",
+      "start_char": 3277,
+      "end_char": 3287
+    },
+    {
+      "text": "5",
+      "label": "CARDINAL",
+      "start_char": 3340,
+      "end_char": 3341
+    },
+    {
+      "text": "40%",
+      "label": "PERCENT",
+      "start_char": 3408,
+      "end_char": 3411
+    },
+    {
+      "text": "20%",
+      "label": "PERCENT",
+      "start_char": 3451,
+      "end_char": 3454
+    },
+    {
+      "text": "85%",
+      "label": "PERCENT",
+      "start_char": 3510,
+      "end_char": 3513
+    },
+    {
+      "text": "over 6 months",
+      "label": "DATE",
+      "start_char": 3523,
+      "end_char": 3536
+    },
+    {
+      "text": "VIT",
+      "label": "ORG",
+      "start_char": 3556,
+      "end_char": 3559
+    },
+    {
+      "text": "AI/ML",
+      "label": "ORG",
+      "start_char": 3562,
+      "end_char": 3567
+    },
+    {
+      "text": "15",
+      "label": "CARDINAL",
+      "start_char": 3618,
+      "end_char": 3620
+    },
+    {
+      "text": "30+",
+      "label": "DATE",
+      "start_char": 3698,
+      "end_char": 3701
+    },
+    {
+      "text": "80%",
+      "label": "PERCENT",
+      "start_char": 3712,
+      "end_char": 3715
+    },
+    {
+      "text": "AI/ML",
+      "label": "ORG",
+      "start_char": 3772,
+      "end_char": 3777
+    },
+    {
+      "text": "Additional Information\nLanguages :",
+      "label": "ORG",
+      "start_char": 3835,
+      "end_char": 3869
+    },
+    {
+      "text": "English",
+      "label": "LANGUAGE",
+      "start_char": 3870,
+      "end_char": 3877
+    },
+    {
+      "text": "Tamil",
+      "label": "PERSON",
+      "start_char": 3879,
+      "end_char": 3884
+    },
+    {
+      "text": "Malayalam",
+      "label": "ORG",
+      "start_char": 3886,
+      "end_char": 3895
+    },
+    {
+      "text": "Spanish",
+      "label": "NORP",
+      "start_char": 3897,
+      "end_char": 3904
+    },
+    {
+      "text": "Hindi\nCertifications",
+      "label": "PERSON",
+      "start_char": 3906,
+      "end_char": 3926
+    },
+    {
+      "text": "AI, Python & R\n",
+      "label": "ORG",
+      "start_char": 3953,
+      "end_char": 3968
+    },
+    {
+      "text": "2023",
+      "label": "DATE",
+      "start_char": 3969,
+      "end_char": 3973
+    },
+    {
+      "text": "1",
+      "label": "CARDINAL",
+      "start_char": 3975,
+      "end_char": 3976
+    }
+  ]
+}
